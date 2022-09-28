@@ -4,7 +4,7 @@
 **redhawk5200/redhawk520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/1T5c4jHOHYRiGNZ39Pb5dide8x0zfaV3r/view?usp=sharing).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi , I'm Abdul Wahab Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Aleena Fatima Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;React+Native+Developer;GDSC+Hackathon+2022+qualifier;Junior+at+FAST-NUCES;Learning+Full+Stack+Development+By+Angela+U;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;GDSC+WiT+Content+Head;Junior+at+FAST-NUCES;Learning+Full+Stack+Development+By+Angela+U;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
-	<a href="mailto:abdulwahab052001@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/redhawk5200"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abdul-wahab-khan-b20a98229/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/mikekowlski/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:ainookhalid@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/ainathecool"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/aleenakhalid14/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/loveatthecoffeeshop/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
@@ -37,18 +37,16 @@ Here are some ideas to get you started:
 <br>
 
 - :school: I am a `Junior` at the National University of Computer and Emerging Sciences (FAST-NUCES)
-- 🔭 `Software Engineering Intern` at `Sybrid Pvt ltd`.
-- :trophy: Ranked 7th in `Google Developer Student club Hackathon 2022`  
-- :technologist: I love using Software as a solution for every `Problem`. Love App and Web `Development`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/1T5c4jHOHYRiGNZ39Pb5dide8x0zfaV3r/view?usp=sharing).
+- 🔭 `Content Head` at `Women in Tech Department` at `Google Developer Student Club .
+- :technologist: I love using Software as a solution for every `Problem`..
 - :nerd_face: Always `learning new things`
 
 ## 📊🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhawk5200&theme=algolia" alt="redhawk5200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=redhawk5200&show_icons=true&line_height=27&count_private=true&theme=algolia&include_all_commits=true" alt="Abdul Wahab's GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhawk5200&layout=compact&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ainathecool&theme=algolia" alt="ainathecool" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ainathecool&show_icons=true&line_height=27&count_private=true&theme=algolia&include_all_commits=true" alt="Aleena's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainathecool&layout=compact&theme=algolia"/>
   </p>
 
 ## 🛠️ My Skills
@@ -68,10 +66,6 @@ Here are some ideas to get you started:
   <a href="https://www.java.com" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
 </p>
 
 ### 👉 IDEs
@@ -79,20 +73,14 @@ Here are some ideas to get you started:
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 </p>
 
  ### 👉 Problem Solving
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-</p>
+    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+ </p>
 
  ### 👉 Operating Systems
  
@@ -122,7 +110,7 @@ Here are some ideas to get you started:
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/redhawk5200/redhawk5200/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/ainathecool/ainathecool/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
 
